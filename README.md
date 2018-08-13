@@ -127,6 +127,11 @@ Run the script and create the admin user on the first node
 ## Python API
 In order to do all of the above and more in pure Python one might use Azure Batch Python API. Sample script can be found under [python dir](https://github.com/ilastik/azure-batch-ilastik/tree/master/python) together with [instructions](https://github.com/ilastik/azure-batch-ilastik/blob/master/python/README.md) of how to run the script.
 
+Output of the ilastik segmentation task run via Azure Batch Python API for a sample time point:
+
+![drosophila_00-49_25_segmentation](https://user-images.githubusercontent.com/706781/39076370-2bf13fe2-44fb-11e8-82c8-a99aa68f8b24.gif)
+
+
 ### Acknowledgement
 
 Data courtesy of Lars Hufnagel, EMBL Heidelberg
