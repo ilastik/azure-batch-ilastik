@@ -124,6 +124,9 @@ Run the script and create the admin user on the first node
 * Create the azure batch service
 > az batch account create -n bilastik -g tilastik
 
+## Python API
+In order to do all of the above and more in pure Python one might use Azure Batch Python API. Sample script can be found under [python dir](https://github.com/ilastik/azure-batch-ilastik/tree/master/python) together with [instructions](https://github.com/ilastik/azure-batch-ilastik/blob/master/python/README.md) of how to run the script.
+
 ### Acknowledgement
 
 Data courtesy of Lars Hufnagel, EMBL Heidelberg
